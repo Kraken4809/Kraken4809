@@ -16,11 +16,7 @@ I am an spiring frontend developer with a passion for creating engaging, user-fr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kraken4809&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-  ![Snake animation](https://github.com/Kraken4809/Kraken4809/blob/output/github-contribution-grid-snake.svg)
-      
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
