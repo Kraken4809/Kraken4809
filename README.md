@@ -19,6 +19,7 @@ I am an spiring frontend developer with a passion for creating engaging, user-fr
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+![Snake animation](https://github.com/Kraken4809/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Kraken4809&icon=0&color=0)](https://visitcount.itsvg.in)
 
